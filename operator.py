@@ -51,4 +51,5 @@
                 
 # Bitwise Operator : -
                 # Bitwise operator use for mathmatical expression between operand in binary number
-                    # b
+                    # Bitwise & (AND) : - True if all conditions are true 
+                    # Bitwise | (OR)  : - True if any One condition is true 
