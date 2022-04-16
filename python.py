@@ -22,6 +22,7 @@
 # python is dyanamically type language
 # python is easy to learn 
 # It reduce cost of program maintenance
+# code can be re-used
 
 
 
